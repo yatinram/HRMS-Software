@@ -1,0 +1,17 @@
+module.exports = {
+  SUCCESS: 'Operation successful',
+  LOGIN_SUCCESS: 'Login successful',
+  REGISTER_SUCCESS: 'Registration successful',
+  LOGOUT_SUCCESS: 'Logout successful',
+  AUTH_REQUIRED: 'Authentication required',
+  FORBIDDEN: 'You are not authorized to perform this action',
+  NOT_FOUND: 'Resource not found',
+  INVALID_CREDENTIALS: 'Invalid email or password',
+  ACCOUNT_INACTIVE: 'Your account is inactive',
+  VALIDATION_FAILED: 'Validation failed',
+  TOKEN_INVALID: 'Invalid or expired token',
+  DUPLICATE_EMAIL: 'Email already exists',
+  PASSWORD_CHANGED: 'Password changed successfully',
+  RESET_TOKEN_SENT: 'Password reset instructions sent',
+  RESET_TOKEN_INVALID: 'Invalid reset token',
+};
